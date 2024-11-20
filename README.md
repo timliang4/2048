@@ -1,7 +1,7 @@
 2048 Game
 =========
 
-Built with Java Swing library.
+Built with the Java Swing library.
 
 In order to play the game, download the `Code.jar` file and run `java -jar Code.jar` in your terminal. Ensure you have at least Java 1.1 installed.
 
