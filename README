@@ -3,7 +3,8 @@
 
 Built with Java Swing library.
 
-In order to play the game, download the `Code.jar` file and run `java -jar Code.jar` in your terminal. To be able to save/load games, include a `files` folder in the same directory as the jar exectuable.
+In order to play the game, download the `Code.jar` file and run `java -jar Code.jar` in your terminal. Ensure you have at least Java 1.1 installed.
+To be able to save/load games, include a `files` folder in the same directory as the jar exectuable.
 
 The project code is in the Code folder.
 
